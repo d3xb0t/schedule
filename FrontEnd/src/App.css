@@ -1,0 +1,19 @@
+.app {
+  display: grid;
+  place-items: center;
+}
+
+.app h1 {
+  margin: 30px 0 30px 0;
+  text-align: center;
+}
+
+.app form {
+  margin-bottom: 30px;
+  width: 70%;
+}
+
+.MuiFormControl-root {
+  width: 70%;
+}
+

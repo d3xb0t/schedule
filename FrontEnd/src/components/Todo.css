@@ -1,0 +1,13 @@
+.todo_list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    border: 1px solid lightgray;
+    margin-bottom: 10px !important;
+}
+
+.erase {
+    cursor: pointer;
+}
+
